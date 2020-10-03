@@ -1,0 +1,11 @@
+{
+    "name": "ambient-link/ability-pack",
+    "type": "symfony-pack",
+    "license": "MIT",
+    "homepage": "https://dev.ambient.link",
+    "description": "A pack for ambient.link to create bare bones artificial intelligence",
+    "require": {
+        "php": "^7.0",
+        "ambient-link/ability-sdk": "*"
+    }
+}
